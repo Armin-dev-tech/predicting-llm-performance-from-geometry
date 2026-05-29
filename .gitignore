@@ -1,0 +1,51 @@
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environment
+# =========================
+venv/
+.env
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Project outputs
+# =========================
+
+# embeddings
+data/embeddings_roberta/
+embeddings/
+embeddings_roberta/
+
+# plots / figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# =========================
+# logs
+# =========================
+*.log
+*.tmp
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
