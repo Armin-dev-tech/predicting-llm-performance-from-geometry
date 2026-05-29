@@ -32,12 +32,6 @@ data/embeddings_roberta/
 embeddings/
 embeddings_roberta/
 
-# plots / figures
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
 # =========================
 # logs
 # =========================
